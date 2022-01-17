@@ -21,11 +21,11 @@ A list of all known keys can be found in the table below
 
 | Key | Name/Value | Type | Description |
 | --- | ---------- | ---- | ----------- |
-| 1   | packID	   | **Integer** | the ID for the specified Map Pack
-| 2   | packName   | **String** | Name of the map pack
+| 1   | packID	   | **Integer** | The ID for the specified Map Pack
+| 2   | packName   | **String** | Name of the Map Pack
 | 3   | levels	   | **String** | List of level IDs separated by a `,`
-| 4   | stars	   | **Integer** | How many stars the map pack should give
-| 5   | coins	   | **Integer** | How many coins the map pack should give
+| 4   | stars	   | **Integer** | How many stars the Map Pack should give
+| 5   | coins	   | **Integer** | How many coins the Map Pack should give
 | 6   | [difficulty](enumerations.md) | **Integer** | Difficulty ranging from `0->10`
 | 7   | textColor | **String** | RGB color for the title text separated by `,`
 | 8   | barColor  | **String** | RGB color for the completion bar separated by `,`
@@ -41,15 +41,15 @@ A list of all known keys can be found in the table below
 
 | Value | Difficulty |
 |:------|:-----------|
-| 0 |  auto | 
-| 1 |  easy | 
-| 2 |  normal | 
-| 3 |  hard | 
-| 4 |  harder | 
-| 5 |  insane | 
-| 6 |  hard demon | 
-| 7 |  easy demon | 
-| 8 |  medium demon | 
-| 9 |  insane demon | 
-| 10 |  extreme demon | 
+| 0 |  Auto | 
+| 1 |  Easy | 
+| 2 |  Normal | 
+| 3 |  Hard | 
+| 4 |  Harder | 
+| 5 |  Insane | 
+| 6 |  Easy Demon | 
+| 7 |  Medium Demon |
+| 8 |  Hard Demon |
+| 9 |  Insane Demon | 
+| 10 | Extreme Demon | 
 
