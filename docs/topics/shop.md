@@ -1,10 +1,10 @@
 # Shops
 
-There are 3 different shops in Geometry Dash which allow the player to purchase various icons. Below is a table which contains every shop item in the game
+There are 3 different shops in Geometry Dash which allow the player to purchase various icons. Below is a table which contains every shop item in the game.
 
 **Note:** ItemID refers to the ID of the item Type. 
 
-| listingID | itemID | Item Type | cost | Shop Type |
+| listingID | itemID | Item Type | Cost | Shop Type |
 |:-------|:-------|:----------|:-----|:----------|
 | 34 | 79 | Cube | 500 | Shopkeeper |
 | 1 | 77 | Cube | 1000 | Shopkeeper |
@@ -32,13 +32,13 @@ There are 3 different shops in Geometry Dash which allow the player to purchase 
 | 23 | 3 | Spider | 3000 | Scratch |
 | 24 | 25 | Ball | 2000 | Scratch |
 | 25 | 13 | Explosion | 10000 | Scratch |
-| 26 | 35 | Colour 1 | 1000 | Shopkeeper |
-| 27 | 36 | Colour 1 | 1000 | Shopkeeper |
-| 28 | 39 | Colour 1 | 1000 | Scratch |
-| 29 | 40 | Colour 1 | 1000 | Scratch |
-| 30 | 39 | Colour 2 | 1000 | Shopkeeper |
-| 32 | 32 | Colour 2 | 1000 | Scratch |
-| 33 | 41 | Colour 2 | 1000 | Scratch |
+| 26 | 35 | Color 1 | 1000 | Shopkeeper |
+| 27 | 36 | Color 1 | 1000 | Shopkeeper |
+| 28 | 39 | Color 1 | 1000 | Scratch |
+| 29 | 40 | Color 1 | 1000 | Scratch |
+| 30 | 39 | Color 2 | 1000 | Shopkeeper |
+| 32 | 32 | Color 2 | 1000 | Scratch |
+| 33 | 41 | Color 2 | 1000 | Scratch |
 | 35 | 5 | Streak | 4000 | Shopkeeper |
 | 36 | 6 | Streak | 4000 | Shopkeeper |
 | 37 | 7 | Streak | 4000 | Scratch |
@@ -119,8 +119,8 @@ There are 3 different shops in Geometry Dash which allow the player to purchase 
 | 113 | 113 | Cube | 4000 | Shopkeeper |
 | 114 | 40 | Ball | 4000 | Shopkeeper |
 | 115 | 35 | Wave | 4000 | Shopkeeper |
-| 116 | 33 | Colour 1 | 1000 | Shopkeeper |
-| 117 | 28 | Colour 2 | 1000 | Shopkeeper |
+| 116 | 33 | Color 1 | 1000 | Shopkeeper |
+| 117 | 28 | Color 2 | 1000 | Shopkeeper |
 | 118 | 136 | Cube | 5000 | Scratch |
 | 119 | 110 | Cube | 5000 | Scratch |
 | 120 | 16 | Explosion | 15000 | Scratch |
