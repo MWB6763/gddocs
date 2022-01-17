@@ -25,7 +25,7 @@ Events over the Geometry Dash servers usually send an error code denoting that t
 | `-7` | Passwords do not match | If the passwords don't match |
 | `-8` | Too short. Minimum 6 characters | If the password is less than 6 characters long |
 | `-9` | Too short. Minimum 3 characters | If the name is less than 3 characters long |
-| `-99` | Emails do not match | if emails do not match |
+| `-99` | Emails do not match | If emails do not match |
 
 #### loginGJAccount
 
@@ -59,9 +59,9 @@ Events over the Geometry Dash servers usually send an error code denoting that t
 | Code | Name | Description |
 |:-----|:-----|:------------|
 | `-10` | Permanent comment ban | If Robtop has deemed you worthy of a permanent comment ban |
-| `temp_{time}_{reason}` | Temporary Comment Ban | If you have recieved a temporary ban from Robtop or an [Elder Moderator](/topics/moderators.md)
+| `temp_{time}_{reason}` | Temporary Comment Ban | If you have recieved a temporary ban from RobTop or an [Elder Moderator](/topics/moderators.md)
 
-| Key | description |
+| Key | Description |
 |:----|:------------|
 | `{time}` | The duration of your ban left in seconds |
 | `{reason}` | The reason behind your ban |
