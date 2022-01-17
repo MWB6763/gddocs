@@ -4,7 +4,7 @@ You're able to use this publicly, just like a sandbox. Please make sure ***not**
 
 <!-- tabs:start -->
 
-### **python**
+### **Python**
 
 import this
 
@@ -20,13 +20,13 @@ def decode_level_password(password: str) -> str:
     return decoded
 ```
 
-### **java**
+### **Java**
 
-fuck it
+F*** it
 
 <!-- tabs:end -->
 
-\* = do you like disclaimers, i don't
+\* = do you like disclaimers, I don't
 
 <div class="projects_card">
     <a href="$" class="project_card_background-container">         
