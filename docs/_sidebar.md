@@ -1,11 +1,7 @@
-<!-- docs/_sidebar.md -->
-
 - [Intro](/)
 - [Reference](/reference.md)
 - [Credits](/CREDITS.md)
-
 ## **Resources**
-
 - **Server**
   - [Comment](/resources/server/comment.md)
   - [Friend Request](/resources/server/friendrequest.md)
@@ -26,7 +22,6 @@
     - [Game Variables](/resources/client/gamesave/gv.md)
     - [Achievements](/resources/client/gamesave/achievement.md)
     - [Quests](/resources/client/gamesave/quests.md)
-
   - [Level](/resources/client/level.md)
     - [Capacity String](/resources/client/level-components/capacity-string.md)
     - [Level Colors](/resources/client/level-components/level-colors.md)
@@ -35,7 +30,6 @@
     - [Color String](/resources/client/level-components/color-string.md)
     - [Guideline String](/resources/client/level-components/guideline-string.md)
 **Endpoints**
-
 - Comments
   - [deleteGJAccComment20](/endpoints/deleteGJAccComment20.md)
   - [deleteGJComment20](/endpoints/deleteGJComment20.md)
@@ -90,21 +84,15 @@
   - [getGJLevelScores211](/endpoints/getGJLevelScores211.md)
   - [getGJScores20](/endpoints/getGJScores20.md)
 - Users
-
   - [getGJUserInfo20](/endpoints/getGJUserInfo20.md)
   - [getGJUsers20](/endpoints/getGJUsers20.md)
   - [updateGJAccSettings20](/endpoints/updateGJAccSettings20.md)
   - [updateGJUserScore22](/endpoints/updateGJUserScore22.md)
-
 - **Accounts**
-
   - [Login](/endpoints/accounts/loginGJAccount.md)
   - [Registration](/endpoints/accounts/registerGJAccount.md)
-
 - [Request](/endpoints/request.md)
-
 **Topics**
-
 - [Level Passwords](/topics/level_passwords.md)
 - [Level Encoding/Decoding](/topics/levelstring_encoding_decoding.md)
 - [Game Save Files Encryption/Decryption](/topics/localfiles_encrypt_decrypt.md)
