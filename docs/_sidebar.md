@@ -29,6 +29,7 @@
     - [Level Object](/resources/client/level-components/level-object.md)
     - [Color String](/resources/client/level-components/color-string.md)
     - [Guideline String](/resources/client/level-components/guideline-string.md)
+    
 **Endpoints**
 - Comments
   - [deleteGJAccComment20](/endpoints/deleteGJAccComment20.md)
@@ -88,10 +89,12 @@
   - [getGJUsers20](/endpoints/getGJUsers20.md)
   - [updateGJAccSettings20](/endpoints/updateGJAccSettings20.md)
   - [updateGJUserScore22](/endpoints/updateGJUserScore22.md)
+  
 - **Accounts**
   - [Login](/endpoints/accounts/loginGJAccount.md)
   - [Registration](/endpoints/accounts/registerGJAccount.md)
 - [Request](/endpoints/request.md)
+
 **Topics**
 - [Level Passwords](/topics/level_passwords.md)
 - [Level Encoding/Decoding](/topics/levelstring_encoding_decoding.md)
@@ -100,6 +103,7 @@
 - [Vault Codes](/topics/vault_codes.md)
 - [Shop](/topics/shop)
 - [Tags](/topics/tags)
+
 - **Encryption**
   - [Base64 Encoding](topics/encryption/base64.md)
   - [CHK Generation](topics/encryption/chk.md)
