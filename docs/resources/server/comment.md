@@ -46,7 +46,7 @@ A list of all known keys can be found in the table below
 | 4   | likes					  | **Integer**									 | The amount of likes the comment has
 | 5   | dislikes                  | **Integer**                                  | The amount of dislikes the comment has -> unused
 | 6   | messageID				  | **Integer**									 | The message ID. Account comments have different IDs than level comments
-| 7   | spam                      | **Bool**                                     | If a comment has been flagged as spam
+| 7   | spam                      | **Boolean**                                     | If a comment has been flagged as spam
 | 8   | authorAccountID | **Integer** | The accountID of the comment author |
 | 9   | age						  | **String**									 | How long ago the comment was posted (e.g. "2 months")
 | 10  | percent*				  | **Integer**									 | The percent the player put in their comment
