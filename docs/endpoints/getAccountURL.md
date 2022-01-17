@@ -1,6 +1,6 @@
 # getAccountURL.php
 
-Gets the URL for the data server. Official domain name is [http://geometrydash.com](http://geometrydash.com), but the server returns [http://69.164.210.48](http://69.164.210.48).
+Gets the URL for the data server. Official domain name is [https://geometrydash.com](https://geometrydash.com), but the server returns [https://69.164.210.48](https://69.164.210.48).
 
 ## Parameters
 
@@ -8,13 +8,13 @@ Gets the URL for the data server. Official domain name is [http://geometrydash.c
 
 **accountID** - Anyone's account ID
 
-**type** - used to decide which endpoint is used after the data server is found - 1 = backup data/ 2 = sync data
+**type** - Used to decide which endpoint is used after the data server is found - 1 = backup data/ 2 = sync data
 
 **secret** - Wmfd2893gb7
 
 ## Response
 
-[http://69.164.210.48](http://69.164.210.48)
+[https://69.164.210.48](https://69.164.210.48)
 
 ## Example
 
@@ -31,7 +31,7 @@ data = {
         "secret": "Wmfd2893gb7"
 }
 
-req = requests.post("http://boomlings.com/database/getAccountURL.php", data=data)
+req = requests.post("https://boomlings.com/database/getAccountURL.php", data=data)
 print(req.text)
 ```
 
