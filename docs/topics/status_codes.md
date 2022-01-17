@@ -58,7 +58,7 @@ Events over the Geometry Dash servers usually send an error code denoting that t
 
 | Code | Name | Description |
 |:-----|:-----|:------------|
-| `-10` | Permanent comment ban | If Robtop has deemed you worthy of a permanent comment ban |
+| `-10` | Permanent comment ban | If RobTop has deemed you worthy of a permanent comment ban |
 | `temp_{time}_{reason}` | Temporary Comment Ban | If you have recieved a temporary ban from RobTop or an [Elder Moderator](/topics/moderators.md)
 
 | Key | Description |
